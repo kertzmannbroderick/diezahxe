@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://einaejeaqu.hapifhir.io/sitemap.xml
